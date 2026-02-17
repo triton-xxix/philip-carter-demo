@@ -1,11 +1,7 @@
 import React from 'react'
 import { MapPin } from 'lucide-react'
 
-const areas = [
-  'Forest Hill', 'Sydenham', 'Dulwich', 'Crystal Palace',
-  'Penge', 'Anerley', 'Honor Oak', 'Brockley',
-  'Crofton Park', 'Catford', 'Lewisham', 'Blackheath'
-]
+const areas = ['Vauxhall', 'Stockwell', 'Brixton', 'Kennington', 'Oval', 'Pimlico', 'Victoria', 'Westminster', 'Nine Elms', 'Battersea']
 
 const AreasServed = () => {
   return (
@@ -16,7 +12,7 @@ const AreasServed = () => {
             Areas We Serve
           </h2>
           <p className="text-lg text-gray-600">
-            Based in Forest Hill, we cover all surrounding areas within approximately 
+            Based in Vauxhall, we cover all surrounding areas within approximately 
             10 miles. If you're not sure if we cover your location, just give us a call.
           </p>
         </div>
@@ -42,7 +38,7 @@ const AreasServed = () => {
           
           <div className="mt-8 text-center">
             <p className="text-gray-500 text-sm">
-              And all surrounding areas within SE23, SE26, SE19, SE20, SE6, SE4 postcodes
+              And all surrounding areas within SW8, SW8, SW8, SE20, SE6, SE4 postcodes
             </p>
           </div>
         </div>

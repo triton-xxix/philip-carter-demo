@@ -4,8 +4,8 @@ import { Users, Shield, PoundSterling, MapPin } from 'lucide-react'
 const differentiators = [
   {
     icon: Users,
-    title: '500+ Happy Customers',
-    description: 'Proudly serving Forest Hill and surrounding areas with a reputation built on trust and quality workmanship.',
+    title: '5+ Happy Customers',
+    description: 'Proudly serving Vauxhall and surrounding areas with a reputation built on trust and quality workmanship.',
   },
   {
     icon: Shield,
@@ -20,7 +20,7 @@ const differentiators = [
   {
     icon: MapPin,
     title: 'Local & Reliable',
-    description: 'Based in Forest Hill, we understand local properties and weather conditions. We\'re never far when you need us.',
+    description: 'Based in Vauxhall, we understand local properties and weather conditions. We\'re never far when you need us.',
   },
 ]
 
@@ -31,13 +31,13 @@ const About = () => {
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           <div>
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
-              About Forest Hill Roofing
+              About Philip Carter Roofing
             </h2>
             
             <div className="space-y-6 text-gray-600 text-lg">
               <p>
-                Forest Hill Roofing has been serving SE23 and surrounding areas for over 
-                15 years. We're a family-run business built on reputation, quality 
+                Philip Carter Roofing has been serving SW8 and surrounding areas for over 
+                10 years. We're a family-run business built on reputation, quality 
                 workmanship, and customer satisfaction.
               </p>
               
@@ -53,7 +53,7 @@ const About = () => {
                 "We treat every home as if it were our own. That's why our customers 
                 recommend us to their friends and family."
               </p>
-              <p className="mt-2 text-sm font-semibold text-gray-900">— The Forest Hill Roofing Team</p>
+              <p className="mt-2 text-sm font-semibold text-gray-900">— The Philip Carter Roofing Team</p>
             </div>
           </div>
           

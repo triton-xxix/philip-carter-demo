@@ -21,7 +21,7 @@ function App() {
               <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
                 <Shield className="w-6 h-6 text-white" />
               </div>
-              <span className="text-xl font-bold text-gray-900">Forest Hill Roofing</span>
+              <span className="text-xl font-bold text-gray-900">Philip Carter Roofing</span>
             </div>
             
             <div className="hidden md:flex items-center space-x-6">
@@ -32,11 +32,11 @@ function App() {
             </div>
             
             <a 
-              href="tel:07864888292" 
+              href="tel:07383992682" 
               className="flex items-center space-x-2 bg-accent hover:bg-amber-600 text-white px-4 py-2 rounded-lg font-semibold transition-all"
             >
               <Phone className="w-4 h-4" />
-              <span className="hidden sm:inline">07864 888292</span>
+              <span className="hidden sm:inline">07383 992682</span>
               <span className="sm:hidden">Call</span>
             </a>
           </div>

@@ -7,7 +7,7 @@ const trustBadges = [
   { icon: Star, label: '5-Star Rated', color: 'text-amber-500' },
   { icon: PoundSterling, label: 'Free Quotes', color: 'text-purple-500' },
   { icon: ThumbsUp, label: 'Work Guaranteed', color: 'text-teal-500' },
-  { icon: Award, label: '15+ Years Exp', color: 'text-red-500' },
+  { icon: Award, label: '10+ Years Exp', color: 'text-red-500' },
 ]
 
 const TrustSignals = () => {

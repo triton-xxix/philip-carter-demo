@@ -12,11 +12,11 @@ const faqs = [
   },
   {
     question: 'Do you offer emergency repairs?',
-    answer: 'Yes, we offer 24/7 emergency roofing services for urgent issues like storm damage or severe leaks. Call us anytime on 07864 888292.',
+    answer: 'Yes, we offer 24/7 emergency roofing services for urgent issues like storm damage or severe leaks. Call us anytime on 07383 992682.',
   },
   {
     question: 'What areas do you cover?',
-    answer: 'We primarily serve Forest Hill, Sydenham, Dulwich, Crystal Palace, and surrounding areas. Contact us to check your specific location.',
+    answer: 'We primarily serve Vauxhall, Sydenham, Dulwich, Crystal Palace, and surrounding areas. Contact us to check your specific location.',
   },
   {
     question: 'How long does a roof replacement take?',

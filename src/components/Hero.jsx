@@ -36,7 +36,7 @@ const Hero = () => {
             {/* CTAs */}
             <div className="flex flex-col sm:flex-row gap-4">
               <a 
-                href="tel:07864888292" 
+                href="tel:07383992682" 
                 className="btn-primary flex items-center justify-center space-x-2 text-lg"
               >
                 <Phone className="w-5 h-5" />

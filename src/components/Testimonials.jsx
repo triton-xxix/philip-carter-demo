@@ -5,19 +5,19 @@ const testimonials = [
   {
     text: "Excellent service from start to finish. Fixed our leak quickly and the price was very fair. Would definitely recommend!",
     author: "Sarah M.",
-    location: "Forest Hill",
+    location: "Vauxhall",
     rating: 5,
   },
   {
     text: "Professional, punctual, and did a great job on our new roof. Left everything clean and tidy. Very happy customers.",
     author: "James & Linda K.",
-    location: "Sydenham",
+    location: "Stockwell",
     rating: 5,
   },
   {
     text: "Called them for an emergency repair after the storm. They came out within the hour and sorted it. Lifesavers!",
     author: "Michael T.",
-    location: "Dulwich",
+    location: "Brixton",
     rating: 5,
   },
 ]
@@ -31,7 +31,7 @@ const Testimonials = () => {
             What Our Customers Say
           </h2>
           <p className="text-lg text-blue-100">
-            Don't just take our word for it. Here's what homeowners in Forest Hill 
+            Don't just take our word for it. Here's what homeowners in Vauxhall 
             and surrounding areas have to say about our work.
           </p>
         </div>

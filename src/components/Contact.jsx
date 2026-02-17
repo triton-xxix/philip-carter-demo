@@ -24,7 +24,7 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="text-lg font-semibold mb-1">Phone</h3>
-                <a href="tel:07864888292" className="text-2xl font-bold text-amber-400 hover:text-amber-300 transition-colors">
+                <a href="tel:07383992682" className="text-2xl font-bold text-amber-400 hover:text-amber-300 transition-colors">
                   07383 992682
                 </a>
                 <p className="text-gray-400 text-sm mt-1">Available 24/7 for emergencies</p>
@@ -37,8 +37,8 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="text-lg font-semibold mb-1">Email</h3>
-                <a href="mailto:info@foresthillroofing.co.uk" className="text-gray-300 hover:text-white transition-colors">
-                  info@foresthillroofing.co.uk
+                <a href="mailto:info@philip-carter-roofing.co.uk" className="text-gray-300 hover:text-white transition-colors">
+                  info@philip-carter-roofing.co.uk
                 </a>
               </div>
             </div>
@@ -49,8 +49,8 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="text-lg font-semibold mb-1">Location</h3>
-                <p className="text-gray-300">Forest Hill, London SE23</p>
-                <p className="text-gray-400 text-sm mt-1">Serving SE23 and surrounding areas</p>
+                <p className="text-gray-300">Vauxhall, London SW8</p>
+                <p className="text-gray-400 text-sm mt-1">Serving SW8 and surrounding areas</p>
               </div>
             </div>
             
